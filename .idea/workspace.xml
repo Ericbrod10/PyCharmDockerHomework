@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e44bfe7-e984-4154-857c-133a9aacc377" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PyCharmDockerHomework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyCharmDockerHomework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +43,42 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="Docker" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Eric\Desktop\NJIT Course Files\IS 601\PycharmDockerHomework\PyCharmDockerHomework\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="firstpythonprogramimage" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="FirstPythonProgramContainer" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="FirstPythonProgramImage" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="FirstPythonProgramContainer" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603151598349</updated>
       <workItem from="1603151599737" duration="15000" />
-      <workItem from="1603151805840" duration="540000" />
+      <workItem from="1603151805840" duration="2458000" />
     </task>
     <servers />
   </component>
@@ -76,10 +108,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="165" key="SettingsEditor" timestamp="1603151848749">
+    <state x="733" y="156" width="850" height="752" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603153174990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.150.1920.1040/-1920.75.1920.1040@0.0.1920.1040" timestamp="1603151848749" />
+    <state x="733" y="156" width="850" height="752" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.150.1920.1040/-1920.75.1920.1040@0.0.1920.1040" timestamp="1603153174990" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1603153947421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.150.1920.1040/-1920.75.1920.1040@0.0.1920.1040" timestamp="1603153947421" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1603151823189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
