@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e44bfe7-e984-4154-857c-133a9aacc377" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PyCharmDockerHomework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyCharmDockerHomework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603151598349</updated>
       <workItem from="1603151599737" duration="15000" />
-      <workItem from="1603151805840" duration="2458000" />
+      <workItem from="1603151805840" duration="2664000" />
     </task>
     <servers />
   </component>
